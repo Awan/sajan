@@ -4,6 +4,9 @@ title = "Abdullah"
 theme = "minimal"
 disqusShortname = "akpk"
 googleAnalytics = "UA-147400444-1"
+enableEmoji = true
+enableGitInfo = true
+canonifyURLs = true
 
 [params]
     author = "Abdullah"
