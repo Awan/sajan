@@ -33,11 +33,17 @@ canonifyURLs = true
     url = "/blog/"
     name = "Blog"
     weight = 3
+    staticDir = "/content/blog/"
 
 [[menu.main]]
     url = "/Quran/"
     name = "Quran"
     weight = 4
+
+[[menu.main]]
+  url = "/Hadith/"
+  name = "Hadith"
+  weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
@@ -67,3 +73,8 @@ canonifyURLs = true
     url = "https://www.stackoverflow.com/users/11274908/abdullah"
     name = "stack-overflow"
     weight = 5
+
+
+[permalinks]
+  blog = "/:slug/"
+
