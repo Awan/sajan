@@ -20,3 +20,7 @@ tags:
 ## Honey bees (Shehad ki Makhiyaan)
 
 {{< youtube vSCJil4Xhls >}}
+
+## Safa and Marwa
+
+{{< youtube Qgd31s98Aug >}}
