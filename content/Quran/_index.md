@@ -1,0 +1,3 @@
+---
+title: Divinely Revealed Scripture
+---
