@@ -1,6 +1,7 @@
 ---
 title: "Surah Sajdah"
 weight: 32
+slug: 32
 date: 2020-05-31T20:30:10+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Sajdah']

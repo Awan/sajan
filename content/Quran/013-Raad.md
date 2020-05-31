@@ -5,6 +5,7 @@ author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Raad' ]
 comments: true
 weight: 13
+slug: 13
 toc: true
 description: "Surah Raad"
 layout: post

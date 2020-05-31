@@ -1,6 +1,7 @@
 ---
 title: "Surah Ankaboot"
 weight: 29
+slug: 29
 date: 2020-05-31T20:19:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Ankaboot']

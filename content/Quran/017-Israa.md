@@ -7,6 +7,7 @@ comments: true
 toc: true
 description: "Surah Israa/Bani Israel"
 weight: 17
+slug: 17
 layout: post
 ---
 

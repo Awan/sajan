@@ -1,6 +1,7 @@
 ---
 title: "Surah Hajj"
 weight: 22
+slug: 22
 date: 2020-05-31T19:51:45+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Hajj' ]

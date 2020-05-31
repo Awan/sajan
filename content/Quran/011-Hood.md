@@ -1,6 +1,7 @@
 ---
 title: "Surah Hood"
 weight: 11
+slug: 11
 date: 2020-05-31T18:13:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Hood']

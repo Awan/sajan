@@ -1,6 +1,7 @@
 ---
 title: "Surah Shuaraa"
 weight: 26
+slug: 26
 date: 2020-05-31T19:59:48+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Shuaraa']

@@ -1,6 +1,7 @@
 ---
 title: "Surah Saaffaat"
 weight: 37
+slug: 37
 date: 2020-05-31T20:56:28+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Saaffaat' ]

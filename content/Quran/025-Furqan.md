@@ -1,6 +1,7 @@
 ---
 title: "Surah Furqan"
 weight: 25
+slug: 25
 date: 2020-05-31T19:58:04+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Furqan']

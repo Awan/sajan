@@ -6,6 +6,7 @@ tags: ['Quran', 'Shuraim', 'Yusuf' ]
 comments: true
 toc: true
 weight: 12
+slug: 12
 description: "Surah Yusuf"
 layout: post
 ---

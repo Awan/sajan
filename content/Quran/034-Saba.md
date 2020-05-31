@@ -1,6 +1,7 @@
 ---
 title: "Surah Saba"
 weight: 34
+slug: 34
 date: 2020-05-31T20:51:37+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Saba']

@@ -1,6 +1,7 @@
 ---
 title: "Surah Namal"
 weight: 27
+slug: 27
 date: 2020-05-31T20:01:41+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Namal']

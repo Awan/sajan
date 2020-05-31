@@ -6,6 +6,7 @@ tags: ['Quran', 'Shuraim', 'Ibrahim' ]
 comments: true
 toc: true
 weight: 14
+slug: 14
 description: "Surah Ibrahim"
 layout: post
 ---

@@ -1,6 +1,7 @@
 ---
 title: Surah Yunus
 weight: 10
+slug: 10
 description: Surah Yunus
 tags: ['Quran', 'Shuraim', 'Yunus']
 author: Abdullah

@@ -1,6 +1,7 @@
 ---
 title: "Surah Room"
 weight: 30
+slug: 30
 date: 2020-05-31T20:24:46+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Room']

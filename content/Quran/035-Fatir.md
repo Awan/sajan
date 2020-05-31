@@ -1,6 +1,7 @@
 ---
 title: "Surah Fatir"
 weight: 35
+slug: 35
 date: 2020-05-31T20:53:01+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Fatir']

@@ -2,6 +2,7 @@
 title: Surah Fateha
 description: Surah Fateha Ummul Kitab
 weight: 1
+slug: 1
 tags: ['shuraim', 'Quran', 'Fateha']
 author: Abdullah
 layout: post

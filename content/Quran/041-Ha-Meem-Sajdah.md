@@ -1,6 +1,7 @@
 ---
 title: "Surah Ha Meem Sajdah"
 weight: 41
+slug: 41
 date: 2020-05-31T21:01:56+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Ha Meem Sajdah' ]

@@ -1,6 +1,7 @@
 ---
 title: "Surah Qasas"
 weight: 28
+slug: 28
 date: 2020-05-31T20:03:25+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Qasas']
