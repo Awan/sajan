@@ -3,7 +3,6 @@ languageCode = "en-us"
 copyright = "Copyleft! All rights reversed. Internet is free and so is my content"
 title = "Abdullah"
 theme = "minimal"
-toc = true
 disqusShortname = "akpk"
 googleAnalytics = "UA-147400444-1"
 enableEmoji = true
