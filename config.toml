@@ -15,11 +15,12 @@ canonifyURLs = true
     description = "Four things support the world: the learning of the wise, the justice of the great, the prayers of the good, and the valor of the brave"
     githubUsername = "Awan"
     accent = ""
+    showBorder = false
     backgroundColor = "floralwhite"
     font = "Source Sans Pro" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-light"
-    highlightLanguages = ["go", "bash", "python", "zsh", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["bash", "python", "zsh", "toml", "yaml"]
 
 [[menu.main]]
     url = "/"
