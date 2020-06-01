@@ -12,6 +12,7 @@ canonifyURLs = true
 
 [params]
     author = "Abdullah"
+    copyright = "Copyleft! All rights reversed. Internet is free and so is my content"
     description = "Four things support the world: the learning of the wise, the justice of the great, the prayers of the good, and the valor of the brave"
     githubUsername = "Awan"
     accent = ""
