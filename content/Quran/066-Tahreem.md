@@ -2,6 +2,7 @@
 title: "Surah Tahreem"
 weight: 066
 slug: 66
+toc: true
 date: 2020-05-31T22:28:32+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Tahreem']

@@ -2,6 +2,7 @@
 title: "Surah Dukhaan"
 weight: 44
 slug: 44
+toc: true
 date: 2020-05-31T21:06:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Dukhaan']

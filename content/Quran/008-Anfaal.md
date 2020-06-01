@@ -2,6 +2,7 @@
 weight: 8
 title: Surah Anfaal
 description: Surah Anfaal
+toc: true
 tags: ['Quran', 'Shuraim', 'Anfaal']
 author: Abdullah
 layout: post

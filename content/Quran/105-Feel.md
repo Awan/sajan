@@ -2,6 +2,7 @@
 title: "Surah Feel"
 weight: 105
 slug: 105
+toc: true
 date: 2020-05-31T22:28:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Feel']

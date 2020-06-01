@@ -2,6 +2,7 @@
 title: "Surah Maaoon"
 weight: 107
 slug: 107
+toc: true
 date: 2020-05-31T22:28:36+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Maaoon']

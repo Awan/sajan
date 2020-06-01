@@ -2,6 +2,7 @@
 title: "Surah Munaafiqoon"
 weight: 063
 slug: 63
+toc: true
 date: 2020-05-31T22:28:31+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Munaafiqoon']

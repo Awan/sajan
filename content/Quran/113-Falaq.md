@@ -2,6 +2,7 @@
 title: "Surah Falaq"
 weight: 113
 slug: 113
+toc: true
 date: 2020-05-31T22:28:37+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Falaq']

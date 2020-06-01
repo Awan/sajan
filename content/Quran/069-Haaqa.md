@@ -2,6 +2,7 @@
 title: "Surah Haaqa"
 weight: 069
 slug: 69
+toc: true
 date: 2020-05-31T22:28:32+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Haaqa']

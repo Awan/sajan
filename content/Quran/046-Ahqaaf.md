@@ -2,6 +2,7 @@
 title: "Surah Ahqaaf"
 weight: 46
 slug: 46
+toc: true
 date: 2020-05-31T22:14:06+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Ahqaaf']

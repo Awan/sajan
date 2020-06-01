@@ -2,6 +2,7 @@
 title: "Surah Momin"
 weight: 40
 slug: 40
+toc: true
 date: 2020-05-31T21:00:32+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Momin']

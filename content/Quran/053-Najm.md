@@ -2,6 +2,7 @@
 title: "Surah Najm"
 weight: 053
 slug: 53
+toc: true
 date: 2020-05-31T22:28:31+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Najm']

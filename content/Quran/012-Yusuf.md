@@ -2,6 +2,7 @@
 title: "Surah Yusuf"
 date: 2020-05-31T18:20:46+05:00
 author: "Abdullah"
+toc: true
 tags: ['Quran', 'Shuraim', 'Yusuf' ]
 comments: true
 toc: true

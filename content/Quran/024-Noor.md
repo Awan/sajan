@@ -2,6 +2,7 @@
 title: "Surah Noor"
 weight: 24
 slug: 24
+toc: true
 date: 2020-05-31T19:56:18+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Noor']

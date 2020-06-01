@@ -2,6 +2,7 @@
 title: "Surah Naas"
 weight: 114
 slug: 114
+toc: true
 date: 2020-05-31T22:28:37+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Naas']

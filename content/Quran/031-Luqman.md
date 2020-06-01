@@ -2,6 +2,7 @@
 title: "Surah Luqman"
 weight: 31
 slug: 31
+toc: true
 date: 2020-05-31T20:28:30+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Luqman']

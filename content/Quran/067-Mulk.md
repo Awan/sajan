@@ -2,6 +2,7 @@
 title: "Surah Mulk"
 weight: 067
 slug: 67
+toc: true
 date: 2020-05-31T22:28:32+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Mulk']

@@ -2,6 +2,7 @@
 title: Surah Tauba
 weight: 9
 description: Surah Tauba
+toc: true
 tags: ['Quran', 'Shuraim', 'Tauba']
 author: Abdullah
 layout: post

@@ -2,6 +2,7 @@
 title: "Surah Zumur"
 weight: 39
 slug: 39
+toc: true
 date: 2020-05-31T20:59:24+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Zumur']

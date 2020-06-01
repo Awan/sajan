@@ -2,6 +2,7 @@
 title: "Surah Mominoon"
 weight: 23
 slug: 23
+toc: true
 date: 2020-05-31T19:54:12+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Mominoon']

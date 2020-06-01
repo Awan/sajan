@@ -2,6 +2,7 @@
 title: "Surah Maryam"
 weight: 19
 slug: 19
+toc: true
 date: 2020-05-31T18:38:54+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Maryam']

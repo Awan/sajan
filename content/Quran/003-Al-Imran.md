@@ -2,6 +2,7 @@
 title: Surah Al Imran
 weight: 3
 description: Surah Al Imran
+toc: true
 tags: ['Quran', 'Shuraim', 'Al-Imran']
 author: Abdullah
 layout: post

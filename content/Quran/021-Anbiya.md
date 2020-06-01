@@ -2,6 +2,7 @@
 title: "Surah Anbiya"
 weight: 21
 slug: 21
+toc: true
 date: 2020-05-31T18:42:22+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Anbiya' ]

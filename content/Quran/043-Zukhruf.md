@@ -2,6 +2,7 @@
 title: "Surah Zukhruf"
 weight: 43
 slug: 43
+toc: true
 date: 2020-05-31T21:05:00+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Zukhruf']

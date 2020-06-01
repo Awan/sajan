@@ -2,6 +2,7 @@
 title: "Surah Maaarij"
 weight: 070
 slug: 70
+toc: true
 date: 2020-05-31T22:28:32+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Maaarij']

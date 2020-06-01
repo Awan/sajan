@@ -2,6 +2,7 @@
 title: "Surah Israa"
 date: 2020-05-31T18:34:44+05:00
 author: "Abdullah"
+toc: true
 tags: ['Quran', 'Shuraim', 'Israa', 'Bani-Israel']
 comments: true
 toc: true

@@ -2,6 +2,7 @@
 title: "Surah Aadiyaat"
 weight: 100
 slug: 100
+toc: true
 date: 2020-05-31T22:28:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Aadiyaat']

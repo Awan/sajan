@@ -2,6 +2,7 @@
 title: "Surah Lahab"
 weight: 111
 slug: 111
+toc: true
 date: 2020-05-31T22:28:36+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Lahab']

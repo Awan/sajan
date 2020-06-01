@@ -2,6 +2,7 @@
 title: "Surah Teen"
 weight: 095
 slug: 95
+toc: true
 date: 2020-05-31T22:28:34+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Teen']

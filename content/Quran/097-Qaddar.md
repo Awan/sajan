@@ -2,6 +2,7 @@
 title: "Surah Qaddar"
 weight: 097
 slug: 97
+toc: true
 date: 2020-05-31T22:28:34+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Qaddar']

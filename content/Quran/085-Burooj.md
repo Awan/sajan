@@ -2,6 +2,7 @@
 title: "Surah Burooj"
 weight: 085
 slug: 85
+toc: true
 date: 2020-05-31T22:28:33+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Burooj']

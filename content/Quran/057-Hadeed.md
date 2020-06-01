@@ -2,6 +2,7 @@
 title: "Surah Hadeed"
 weight: 057
 slug: 57
+toc: true
 date: 2020-05-31T22:28:31+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Hadeed']

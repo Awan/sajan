@@ -2,6 +2,7 @@
 title: "Surah Yaseen"
 weight: 36
 slug: 36
+toc: true
 date: 2020-05-31T20:54:24+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Yaseen']

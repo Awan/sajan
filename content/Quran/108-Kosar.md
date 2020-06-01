@@ -2,6 +2,7 @@
 title: "Surah Kosar"
 weight: 108
 slug: 108
+toc: true
 date: 2020-05-31T22:28:36+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Kosar']

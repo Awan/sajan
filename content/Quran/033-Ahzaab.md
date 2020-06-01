@@ -2,6 +2,7 @@
 title: "Surah Ahzaab"
 weight: 33
 slug: 33
+toc: true
 date: 2020-05-31T20:50:36+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Ahzaab']

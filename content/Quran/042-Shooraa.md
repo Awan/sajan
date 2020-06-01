@@ -2,6 +2,7 @@
 title: "Surah Shooraa"
 weight: 42
 slug: 42
+toc: true
 date: 2020-05-31T21:03:49+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Shooraa']

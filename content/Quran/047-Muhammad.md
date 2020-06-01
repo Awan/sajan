@@ -2,6 +2,7 @@
 title: "Surah Muhammad"
 weight: 047
 slug: 47
+toc: true
 date: 2020-05-31T22:28:31+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Muhammad']

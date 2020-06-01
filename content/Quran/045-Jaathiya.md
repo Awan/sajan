@@ -2,6 +2,7 @@
 title: "Surah Jaathiya"
 weight: 45
 slug: 45
+toc: true
 date: 2020-05-31T21:07:51+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Jaathiya']

@@ -3,6 +3,7 @@ title: Surah Baqara
 description: Surah Baqara 
 weight: 2
 author: Abdullah
+toc: true
 date: 2020-05-28
 layout: verse
 tags: ['Quran', 'Shuraim', 'Baqara']

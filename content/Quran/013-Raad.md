@@ -2,6 +2,7 @@
 title: "Surah Raad"
 date: 2020-05-31T18:26:34+05:00
 author: "Abdullah"
+toc: true
 tags: ['Quran', 'Shuraim', 'Raad' ]
 comments: true
 weight: 13

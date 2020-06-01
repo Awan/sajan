@@ -2,6 +2,7 @@
 title: "Surah Quraish"
 weight: 106
 slug: 106
+toc: true
 date: 2020-05-31T22:28:36+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Quraish']

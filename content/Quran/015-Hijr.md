@@ -2,6 +2,7 @@
 title: "Surah Hijr"
 weight: 15
 slug: 15
+toc: true
 date: 2020-05-31T18:31:24+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Hijr']

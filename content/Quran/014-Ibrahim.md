@@ -2,6 +2,7 @@
 title: "Surah Ibrahim"
 date: 2020-05-31T18:28:23+05:00
 author: "Abdullah"
+toc: true
 tags: ['Quran', 'Shuraim', 'Ibrahim' ]
 comments: true
 toc: true

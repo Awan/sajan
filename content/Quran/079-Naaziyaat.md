@@ -2,6 +2,7 @@
 title: "Surah Naaziyaat"
 weight: 079
 slug: 79
+toc: true
 date: 2020-05-31T22:28:33+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Naaziyaat']

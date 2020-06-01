@@ -2,6 +2,7 @@
 title: "Surah Hummaza"
 weight: 104
 slug: 104
+toc: true
 date: 2020-05-31T22:28:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Hummaza']

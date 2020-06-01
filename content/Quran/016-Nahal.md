@@ -2,6 +2,7 @@
 title: "Surah Nahal"
 weight: 16
 slug: 16
+toc: true
 date: 2020-05-31T18:33:06+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Nahal']

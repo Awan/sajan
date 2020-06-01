@@ -2,6 +2,7 @@
 title: "Surah Abbas"
 weight: 080
 slug: 80
+toc: true
 date: 2020-05-31T22:28:33+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Abbas']

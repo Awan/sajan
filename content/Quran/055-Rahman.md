@@ -2,6 +2,7 @@
 title: "Surah Rahman"
 weight: 055
 slug: 55
+toc: true
 date: 2020-05-31T22:28:31+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Rahman']

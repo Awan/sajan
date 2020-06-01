@@ -2,6 +2,7 @@
 title: "Surah Kahaf"
 weight: 18 
 slug: 18 
+toc: true
 date: 2020-05-31T18:37:00+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Kahaf']

@@ -2,6 +2,7 @@
 title: Surah Nisaa
 weight: 4
 description: Surah Nisaa
+toc: true
 tags: ['Quran', 'Shuraim', 'Nisaa']
 author: Abdullah
 layout: post

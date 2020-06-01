@@ -2,6 +2,7 @@
 title: "Surah Zalzalah"
 weight: 099
 slug: 99
+toc: true
 date: 2020-05-31T22:28:35+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Zalzalah']

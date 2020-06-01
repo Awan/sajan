@@ -2,6 +2,7 @@
 title: "Surah Suaad"
 weight: 38
 slug: 38
+toc: true
 date: 2020-05-31T20:57:45+05:00
 author: "Abdullah"
 tags: ['Quran', 'Shuraim', 'Suaad']
