@@ -1,16 +1,18 @@
 ---
-title: "Multihead with BSPW and Polybar"
+title: "Multihead with BSPWM and Polybar"
 date: 2020-06-02T10:52:37+05:00
 author: "Abdullah"
 tags: ['polybar', 'bspwm', 'multihead', 'multi-display', 'multi-screen', 'dual-monitor', 'dual-screen', 'multimonitor']
 comments: true
 toc: true
 description: "How to configure dual screen in linux?"
+slug: '/multihead'
 layout: post
 ---
 
 # Multihead
 
+![Multihead with bspwm and polybar](/images/dual-monitor.png)
 
 A few days ago, I relocated myself to new room. Actually this room I use for
 summer as its way cooler than others. I have a wall-mounted LCD monitor here so
