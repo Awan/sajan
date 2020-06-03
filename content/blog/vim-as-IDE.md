@@ -66,7 +66,7 @@ Install vIM.
 ```
 $ sudo apt install vim-nox
 ```
-Install Addon Manager.You can use plugins without a plugin manager too but it really makes your life easier.
+Install _Addon Manager_. You can use plugins without a plugin manager too but it really makes your life easier.
 
 ```
 $ sudo apt install vim-addon-manager vim-youcompleteme
