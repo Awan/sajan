@@ -20,7 +20,7 @@ canonifyURLs = true
     font = "Source Sans Pro" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-light"
-    highlightLanguages = ["bash", "python", "zsh", "toml", "yaml"]
+    highlightLanguages = ["bash", "python", "yaml"]
 
 [[menu.main]]
     url = "/"

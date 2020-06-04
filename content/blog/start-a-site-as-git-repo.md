@@ -2,6 +2,7 @@
 author: Abdullah
 comments: true
 date: 2020-05-10
+tags: ['git', 'web development', 'website', 'hugo', 'vim']
 slug: site-as-git-repo
 description: "How to manage a website using git"
 title: "How to manage a website using git"
