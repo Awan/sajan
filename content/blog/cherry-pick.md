@@ -11,7 +11,7 @@ layout: post
 
 # Git cherry-picking
 
-Aah picking cherries! :love:
+Aah picking cherries! :heart:
 
 I'm using _git_ since I started using _linux_. Cherry-pick is one of those
 commands I do alot with git. Right now I'm preparing a new cherry and will pick
@@ -68,7 +68,7 @@ So now you're ready to commit your changes. Add *Untracked or modified files* an
 
 Commit them.
 
-![creating commit](images/cherry-commit.png)
+![creating commit](/images/cherry-commit.png)
 
 Remember to copy or remeber first 6 digits of the new commit or you can
 always get it by:
@@ -103,7 +103,8 @@ cherry branch.
 
 It is now safe to delete the new branch we made.
 
-![deleting the branch](cherry-branch-deleted.png)
+![deleting the branch](/images/cherry-branch-deleted.png)
 
 
-Feel free to ask more about advanced git topics. Enjoy cherry-picking! :love:
+Feel free to ask more about advanced git topics. Enjoy cherry-picking!
+:heart:
