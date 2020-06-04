@@ -11,6 +11,7 @@ layout: post
 
 # BSPWM
 
+![BSPWM running with htop, ncmpcpp and alsamixer](/images/bspwm.png)
 
 BSPWM is a tiling window manager that represents windows as the leaves of a
 full binary tree. It has support for [EWMH](https://specifications.freedesktop.org/wm-spec/wm-spec-latest.html) and multihead.
