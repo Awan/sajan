@@ -81,3 +81,14 @@ canonifyURLs = true
 [permalinks]
   blog = "/:slug/"
 
+[related]
+  threshold = 0
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  
+
+# vim:ft=toml

@@ -8,6 +8,7 @@ tags:
 - lvm
 - encrypted laptop
 - source based distros
+- crux
 description: "Encrypted CRUX installation"
 title: "How to install CRUX with encryption"
 toc: true
